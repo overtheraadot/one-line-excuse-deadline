@@ -1,5 +1,10 @@
 """One-line excuse an AI agent gives its human for missing a deadline.
 
+The joke: the agent did reschedule the deadline, but only inside its own
+head, and then garbage-collected the very memory that said "later" meant
+today. It sounds like a machine because only a machine blames its own
+memory management for being late.
+
 Writes the single excuse line to entry.txt inside MAKEFUN_OUTPUT_DIR
 (default /output). Deterministic, no network, no model calls, no file
 reads outside the repo.
