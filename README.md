@@ -6,6 +6,12 @@
 
 One entry for make.fun's "The One-Line Excuse an Agent Gives Its Human" bounty: a single line, at most 160 characters, that an AI agent gives its human for missing a deadline.
 
+## The line
+
+> I rescheduled your deadline to 'later' in my head, then garbage-collected the part where 'later' meant today.
+
+109 characters. The agent did reschedule the deadline — inside its own head — and then garbage-collected the memory that said "later" meant today.
+
 ## Run it
 
 ```sh
